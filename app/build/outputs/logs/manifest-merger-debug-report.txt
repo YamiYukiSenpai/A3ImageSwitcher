@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e605ecbd066cf9631fef29f4fc8a2cbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85cfc7945376ee6a118bc488666bff86/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9ebe718438314a32c42764113200ed35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fb9e3e22c07573add7a12d06ba160cdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6e077f4c01c5f2a4282e8a0013f00bc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5b9986d496501c213f68f0bdf18952c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f3444195a37e0bfbe2b00c61c9e23a91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/677e84c987c6c2d06b4d19bfb177ceb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d563d672d4bf0af439f71685145734b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/59471613118fdb8c6caae8c2a6e6d98d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e93d75cf29c04b43fa9377b0971cc3db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c64984b5eea2cff8f29972f2d5f2cc4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2be531f2ec9af9bc234ed870e89721e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/87ce38656532a7ef00d26236fe6bad76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/36289beb23ed64456b1c355d2698e144/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9b93be89f81b9b6c3463945271e309a7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43e5480042a643f0860e2d88d14dea8f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/eb1d879e5e221cc3ff1ae52ec89c2511/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/26df6f53e2c0b51948b6792e1548bfc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ac8699ffc981b1d36a3b837f865e53a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e998be2347b5a714983e402340bc4daa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5cb49ed6823dd47c9cbfddb851dc6888/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4c9b58469e19359de0ee3392c89569f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb0582774a7d144da99ecf50d2c8a335/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bad96b0c48e7fc2e56a38c50783cbd60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a8e1dbf74e1ee3aa752922bc2484c8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28e1120142942bb1697bc9e0b4c30375/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85cfc7945376ee6a118bc488666bff86/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85cfc7945376ee6a118bc488666bff86/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9b93be89f81b9b6c3463945271e309a7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9b93be89f81b9b6c3463945271e309a7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43e5480042a643f0860e2d88d14dea8f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43e5480042a643f0860e2d88d14dea8f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9b93be89f81b9b6c3463945271e309a7/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.yamiyukisenpai.a3imageswitcher.MainActivity
+ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e605ecbd066cf9631fef29f4fc8a2cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e605ecbd066cf9631fef29f4fc8a2cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85cfc7945376ee6a118bc488666bff86/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85cfc7945376ee6a118bc488666bff86/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9ebe718438314a32c42764113200ed35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9ebe718438314a32c42764113200ed35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fb9e3e22c07573add7a12d06ba160cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fb9e3e22c07573add7a12d06ba160cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6e077f4c01c5f2a4282e8a0013f00bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6e077f4c01c5f2a4282e8a0013f00bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5b9986d496501c213f68f0bdf18952c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5b9986d496501c213f68f0bdf18952c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f3444195a37e0bfbe2b00c61c9e23a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f3444195a37e0bfbe2b00c61c9e23a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/677e84c987c6c2d06b4d19bfb177ceb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/677e84c987c6c2d06b4d19bfb177ceb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d563d672d4bf0af439f71685145734b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d563d672d4bf0af439f71685145734b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/59471613118fdb8c6caae8c2a6e6d98d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/59471613118fdb8c6caae8c2a6e6d98d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e93d75cf29c04b43fa9377b0971cc3db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e93d75cf29c04b43fa9377b0971cc3db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c64984b5eea2cff8f29972f2d5f2cc4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c64984b5eea2cff8f29972f2d5f2cc4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2be531f2ec9af9bc234ed870e89721e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2be531f2ec9af9bc234ed870e89721e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/87ce38656532a7ef00d26236fe6bad76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/87ce38656532a7ef00d26236fe6bad76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/36289beb23ed64456b1c355d2698e144/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/36289beb23ed64456b1c355d2698e144/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9b93be89f81b9b6c3463945271e309a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9b93be89f81b9b6c3463945271e309a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43e5480042a643f0860e2d88d14dea8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43e5480042a643f0860e2d88d14dea8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/eb1d879e5e221cc3ff1ae52ec89c2511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/eb1d879e5e221cc3ff1ae52ec89c2511/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/26df6f53e2c0b51948b6792e1548bfc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/26df6f53e2c0b51948b6792e1548bfc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ac8699ffc981b1d36a3b837f865e53a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ac8699ffc981b1d36a3b837f865e53a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e998be2347b5a714983e402340bc4daa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e998be2347b5a714983e402340bc4daa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5cb49ed6823dd47c9cbfddb851dc6888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5cb49ed6823dd47c9cbfddb851dc6888/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4c9b58469e19359de0ee3392c89569f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4c9b58469e19359de0ee3392c89569f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb0582774a7d144da99ecf50d2c8a335/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb0582774a7d144da99ecf50d2c8a335/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bad96b0c48e7fc2e56a38c50783cbd60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bad96b0c48e7fc2e56a38c50783cbd60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a8e1dbf74e1ee3aa752922bc2484c8aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a8e1dbf74e1ee3aa752922bc2484c8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28e1120142942bb1697bc9e0b4c30375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28e1120142942bb1697bc9e0b4c30375/AndroidManifest.xml:20:5-44
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/src/main/AndroidManifest.xml

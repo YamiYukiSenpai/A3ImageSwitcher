@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e605ecbd066cf9631fef29f4fc8a2cbc/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

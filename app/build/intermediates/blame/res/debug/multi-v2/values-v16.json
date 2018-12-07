@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9b93be89f81b9b6c3463945271e309a7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/yamiyukisenpai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e605ecbd066cf9631fef29f4fc8a2cbc/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
