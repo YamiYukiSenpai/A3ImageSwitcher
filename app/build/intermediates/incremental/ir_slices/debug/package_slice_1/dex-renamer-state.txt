@@ -1,4 +1,0 @@
-#Fri Dec 07 15:18:05 EST 2018
-base.0=/home/yamiyukisenpai/Documents/School/Fall18/CENG319/Assignments/A3/A3ImageSwitcher/app/build/intermediates/transforms/dexMerger/debug/1
-path.0=classes.dex
-renamed.0=classes.dex
