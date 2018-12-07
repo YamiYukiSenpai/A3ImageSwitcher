@@ -3,7 +3,6 @@ package com.example.yamiyukisenpai.a3imageswitcher;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageSwitcher;
@@ -47,21 +46,7 @@ public class MainActivity extends AppCompatActivity {
         // Added an animation for image transition
         sample_image_switcher.setInAnimation
                 (AnimationUtils.loadAnimation(this, android.R.anim.fade_in));
-        //sample_image_switcher.setInAnimation
-                //(AnimationUtils.loadAnimation(this, android.R.anim.fade_out));
-
-        // Something that can be done at another time
-        /*sample_background_image_switcher = findViewById(R.id.rand_back_imageSwitcher);
-        sample_background_image_switcher.setFactory(new ViewSwitcher.ViewFactory() {
-            @Override
-            public View makeView() {
-                ImageView rand_image_back = new ImageView(getApplicationContext());
-                rand_image_back.setScaleType(FIT_XY);
-                return rand_image_back;
-            }
-        });
-        sample_background_image_switcher.setImageResource(img_arr[curr_index]);*/
-
+        
         next_button = findViewById(R.id.next_button);
         next_button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -81,3 +66,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+
