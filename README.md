@@ -70,5 +70,9 @@ This `curr_index` value can be incremented if you wish it so.  Just make sure th
             }
         });
 
+# References
+1. [Android Studio](https://developer.android.com/reference/android/widget/ImageSwitcher)
+2. [TutorialsPoint](https://www.tutorialspoint.com/android/android_imageswitcher.htm)
+
 ## Note:
 1. `$PROJECT_DIR` is your project's directory where `app/`, `gradle/` directories are in.
