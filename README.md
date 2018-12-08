@@ -1,20 +1,23 @@
 # A3ImageSwitcher
-Assignment 3 for CENG319 (Software Project)
 
 ![Demo](.readme_src/demo.gif)
 
 ## Introduction
-The purpose of the ImageSwitcher widget is to switch between 2 ImageViews. 
+The purpose of the ImageSwitcher widget is to switch between 2 ImageViews.  It is based on ViewSwitcher, which is a widget that switches between 2 views.
+
+This is a basic assignment for CENG319 (Software Project) that contains basic instructions, and a basic Android Project.
 
 ## History
-The widget has been in Android SDK since API level 1 (Android 1.0).  The package library the component is under is  `android.widget`
+The widget has been in Android SDK since API level 1 (Android 1.0).  The package library the component is under is  `android.widget`.
 
 ## Major methods & attrubutes
+These are the methods required to provide basic functionality for ImageSwitcher.
+
 * `setFactory(ViewSwitcher.ViewFactory factory)`
-    * sets up the factory that creates 2 ImageViews that the ImageSwitcher will flip
+    * sets up the factory that creates 2 ImageViews that the ImageSwitcher will flip.
     * From `ViewSwitcher`
 * `setImageResource(int resid)`
-    * sets a new image on the ImageSwitcher with the provided resource ID
+    * sets a new image on the ImageSwitcher with the provided resource ID.
 
 ## An example project
 This repository is also an Android project that can be run on Android Studio.  Simply run `git clone https://github.com/YamiYukiSenpai/A3ImageSwitcher.git` to download this to your PC, and load the project in Android Studio.
@@ -30,7 +33,7 @@ In `res/layout/activity_main.xml` (or whichever activity you want to place your 
 You can also add a button to flip to next image.
 
 ### 2. Upload images you want to use in the switcher
-Paste them under `$PROJECT_DIR/app/src/main/res/drawable/`<sup>1</sup>
+Paste them under `$PROJECT_DIR/app/src/main/res/drawable/`<sup>1</sup>.  Make sure that each file only contains lowercase letters, numbers, and underscores.
 
 ### 3. Setting up basic ImageSwitcher in your activity's Java file
 #### 1. Create an array of images with `int` variable.
@@ -41,7 +44,7 @@ Example:
         int img_arr[] = {R.drawable.img1, R.drawable.img2,...};
 
 #### 2. Enabling ImageSwitcher
-In `MainActivity.java`, under onCreate class, add these lines to enable a basic image switcher:
+In `MainActivity.java` (or whichever acitivity), under onCreate class, add these lines to enable a basic image switcher:
 
         int curr_index = 0;
         sample_image_switcher.setFactory(new ViewSwitcher.ViewFactory() {
