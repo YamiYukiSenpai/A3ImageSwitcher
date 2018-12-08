@@ -1,6 +1,6 @@
 # A3ImageSwitcher
 
-![Demo](.readme_src/demo.gif)
+![Demo](.readme_src/demo.gif) ![Demo_land](.readme_src/demo_land.gif)
 
 ## Introduction
 The purpose of the ImageSwitcher widget is to switch between 2 ImageViews.  It is based on ViewSwitcher, which is a widget that switches between 2 views.
